@@ -1,4 +1,2 @@
 # Python
-Py scripts
-
-Python 3
+Script based on Python 3
