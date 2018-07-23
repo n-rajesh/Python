@@ -1,3 +1,5 @@
+""" To export the freuency of occurence of words in input txt to csv """
+
 import csv
 import operator
 import collections as c
